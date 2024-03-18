@@ -1,6 +1,6 @@
 # WE-MODULE-3
 
-A place to chronicle the reports, notes, experiments, happenings and other intellectual escapades of the GenAI session of that is taken a part of Module 3.
+A place to chronicle the reports, notes, experiments, happenings and other intellectual escapades of the GenAI session, that is taken as part of Module 3.
 
 # CONTENTS
 1. Solving of a Computational problem
